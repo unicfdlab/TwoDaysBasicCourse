@@ -1,3 +1,3 @@
 # TwoDaysBasicCourse
 
-This repository contains TwoDaysBasisc Course on SALOME/OpenFOAM/ParaVIEW
+This repository contains two days basic training course on SALOME/OpenFOAM/ParaVIEW
